@@ -1,6 +1,6 @@
 # GITHUB-BRANCH
 
-Descripción breve de lo que hace este proyecto (ej. "Sistema de gestión de base de datos para Java").
+ACTIVIDAD RAMAS DE GIT
 
 ## 📋 Lista de Integrantes
 
